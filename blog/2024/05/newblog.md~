@@ -1,0 +1,35 @@
+---
+date: 2024-05-01
+---
+
+# Setting up a new blog!
+
+Testing the awesome [blog plugin] provided by [Material for MkDocs]. This is
+part of my work on a tutorial for setting up a blog using these tools. At the
+same time, this blog will serve a good purpose in the future, to provide a 
+source of news for free software that helps people write software that is driven
+by an appreciations of the social world in which software gets used. Read on if 
+you want to learn a bit more. I will keep things short for now and will discuss
+the ideas and the tools we are developing in future posts..
+
+<!-- more -->
+
+## The need for new approaches in software engineering
+
+While software systems have long had an impact on our well-being, the extent to 
+which software permeates our lives today makes it even more important that
+development teams consider not just individual usability and user experience.
+Rather, they need to understand and appreciate the social relationships that 
+make up our lives.
+
+Software engineering has made much progress in ensuring that software does
+behave the way its creators intended it to. Unfortunately, as [argued in a
+recent discussion paper], there has not been similar progress in ensuring that
+this behavior serves the needs of the users, others affected by the use of the
+software.
+
+
+
+[blog plugin]: https://squidfunk.github.io/mkdocs-material/plugins/blog/
+[Material for MkDocs]: https://squidfunk.github.io/mkdocs-material
+[argued in a recent discussion paper]: https://dash.harvard.edu/handle/1/37373560
